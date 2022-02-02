@@ -20,3 +20,12 @@ hollaex prod
 hollaex web --build
 
 hollaex web --apply
+
+
+
+api problem solve 
+
+
+hollaex toolbox --reset_hmac_token
+hollaex toolbox --set_activation_code
+hollaex server --restart
